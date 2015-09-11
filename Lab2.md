@@ -1,0 +1,11 @@
+## Lab 2 ##
+
+2. It is important to choose a license as a way to define how your software can and cannot be used. A license can explain limitations in the use (private or commercial), distribution, access, and availability of your software. In addition, if your software has no license explicitly labeling it as free-to-use, it is by definition copyrighted under "all rights reserved".
+
+3. You shouldn't use a project which doesn't have an explicit license because of the legal gray area that project now falls under. Without a license explaining the specific uses which are and are not allowed under the author's copyright, you run the risk of falling into legal trouble and potentially owing the author money.
+
+4. I agree in some ways with the claim. While getting user input for a project can be helpful and build closer ties with the userbase, building trust in the company, it can also lead to chaos and a lot of white noise in feedback. It's important to get feedback at the right time during development in my opinion.
+
+5. For Microsoft to license .NET under the MIT License makes sense because the MIT license allows people to do anything they want with their code, but adds the restrictions that they attribute it to you and don't hold you liable. Microsoft seems like the kind of company that would want attribution for their software, to spread it further, but not want to be held liable for everything every coder doesn't like about it.
+
+9. I have not yet chosen who my partners will be for this project, but am working on getting to know people in the class to join a group with. As in my last lab, I am still interested in working with an Android or web stack. Since Android is under the Apache License, it would probably be easiest to license my project under the Apache License as well. However, if I were to choose a web project, it would be necessary to review the licenses of the components of my stack to make sure I don't choose a conflicting license. All of this will be dependent on discussing with my teammates what their opinions are.

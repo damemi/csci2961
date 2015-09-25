@@ -1,0 +1,13 @@
+Index: ls.1
+===================================================================
+--- ls.1	(revision 288220)
++++ ls.1	(working copy)
+@@ -320,7 +320,7 @@
+ option.
+ This causes
+ .Nm
+-to reverse the lexicographal sort order when sorting files with the
++to reverse the lexicographical sort order when sorting files with the
+ same modification timestamp.
+ .It Fl u
+ Use time of last access,

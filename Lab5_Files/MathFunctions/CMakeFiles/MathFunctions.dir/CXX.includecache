@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/csci2961/Lab5_Files/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/home/mike/csci2961/Lab5_Files/MathFunctions/MathFunctions.h
+
